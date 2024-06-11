@@ -11,7 +11,7 @@ cd /redis-server
 1. Open command line interface
 2. execute under command
 ```bash
-nc localhost 8888
+nc localhost 6379
 ```
 Then cli can communicate with the redis-server.
 ## interaction between the client and the server
